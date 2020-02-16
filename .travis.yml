@@ -1,5 +1,7 @@
 script:
   - echo Boo
   - npm install --global surge
+  - export SURGE_TOKEN=2fb003b3a3e68d4582eed73a917ebdcc
+  - export SURGE_LOGIN=piumalrathnayake@hotmail.com
   - surge
 
