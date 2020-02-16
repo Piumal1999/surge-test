@@ -1,5 +1,5 @@
 script:
   - echo Boo
-  - npm install surge
+  - npm install --global surge
   - surge
 
